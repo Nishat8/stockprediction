@@ -1,0 +1,126 @@
+Notes
+
+
+ai =
+
+an ai application can be an appl that can do its own task without human intervention.
+AI doesn't necessarily require machines to learn from data.
+
+
+ml=
+
+is a subset of ai
+is a specific type of AI that allows computers to learn from data 
+ ML algorithms can analyze data to identify patterns and relationships, and then use that knowledge to make predictions or decisions on new data. 
+
+
+
+ds=
+Data science is the field that combines computer science, statistics, and domain knowledge to extract insights from data.
+
+Here's an analogy to understand the relationship between these three:
+
+Imagine AI as a car. It's the overall vehicle that can take you to your destination.
+Machine learning is the engine. It's what allows the car to learn and adapt to different road conditions.
+Data science is the fuel. It provides the data that powers the engine and makes the car move.
+
+
+
+deep learning=
+
+neural networks
+
+
+ml types=
+A.Supervised learning
+You provide the algorithm with both the data and the result  for each piece of data.
+The algorithm learns the patterns.
+
+has 	a. regression
+	b. classification
+
+B.Unsupervised learning-
+the algorithm is on its own to find interesting patterns in the data.
+has 	a. clustering
+	b. dimensionality reduction
+
+
+A.Supervised learning
+independent features= generally input 
+dependent feature= output that we are predicting  
+there can be any no of independent variables 
+
+Difference between regression and classification
+
+
+1. regression
+suppose we have age and weight , we are predicting weight of an individual by their age . so weight is our output making it a dependebale variable.
+
+age  | weight		weight is a continuous var making it a  
+24	72		regression problem.
+23	71		the target variable is continuous. This	
+5	15		means it can take any value within a 
+25	71.5		range.
+
+
+2. classification
+
+suppose we have to predict whether a student will pass or fail ,we have no of study hours , no of play hours etc . based on which we can decide whether he'll pass or fail.
+o/p = p/f
+ our output has fixed no of categories like only pass or fail 
+this makes it a classification problem , a binary classification with two categories
+
+if we have more categories then it becomes multi class classification.
+
+
+B. Unsupervised learning-
+no dependent var 
+
+1. clustering
+- grouping similar data points.
+- each cluster specifies some information.
+
+ex - suppose we need to do customer segmentation in which we are grouping customers with similar characteristics. suppose we have  to market a product specifically for gen z . then we can group the customers with their ages into a cluster .multiple clusters can be created.
+and based on this customer segmentation  we can further apply regression or classification.
+
+
+2.dimentionality reduction
+
+Dimensionality reduction is a crucial technique in unsupervised learning used to reduce the number of features or dimensions in a dataset while preserving as much information as possible
+
+
+ALGORITHMS
+
+supervised 	
+	
+Regression Algorithms:
+
+linear regression
+decision trees
+support vector regression(svr)
+
+
+Classification Algorithms:
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
